@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Big R's Carpet",
+    "phone": "+16618641477",
+    "category": "flooring installer",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield Flooring Experts",
+      "heroSubline": "Reliable installation and quality materials for homes and businesses. Get a free quote today!",
+      "aboutTitle": "Big R's Carpet: Bakersfield's Flooring Choice",
+      "aboutText": [
+        "Big R's Carpet started with a simple goal: to provide Bakersfield with dependable, high-quality flooring services. We're a local team, born and raised right here, and we understand the needs of our community.",
+        "We believe in honest work and fair prices. Our approach is straightforward: assess your needs, offer expert advice, and deliver exceptional results. We stand behind our work, ensuring your satisfaction every step of the way.",
+        "Bakersfield is our home, and we're committed to giving back. We actively support local initiatives and organizations, because we believe in building a stronger community, one floor at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Professional installation for all flooring types, ensuring lasting beauty and performance."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From hardwood to carpet to tile, we offer a diverse range of flooring options to fit any style and budget."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We provide fair and transparent pricing, with no hidden fees or surprises."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Bakersfield's climate and housing styles, offering tailored solutions for your needs."
+        }
+      ],
+      "ctaHeadline": "Ready for New Floors?",
+      "ctaSubline": "Contact Big R's Carpet today for a free consultation and estimate!"
+    },
+    "services": [
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Expert carpet installation services for homes and businesses in Bakersfield.",
+        "description": "Big R's Carpet offers comprehensive carpet installation services, handling everything from selection to final inspection. We understand that selecting the right carpet can be overwhelming, so we offer expert guidance to help you choose the perfect style, color, and material for your space. We consider factors like foot traffic, lifestyle, and budget to ensure you make an informed decision.\n\nOur installation process is meticulous and precise. We start by preparing the subfloor, ensuring it's clean, level, and free of imperfections. We then carefully lay the carpet, paying close attention to seams, edges, and transitions. Our experienced installers use professional-grade tools and techniques to guarantee a smooth, seamless finish that will last for years to come.\n\nWe work with all types of carpets, including plush, berber, frieze, and more. Whether you're looking for a cozy, comfortable carpet for your bedrooms or a durable, stain-resistant carpet for your high-traffic areas, we have the perfect solution for you. With Bakersfield's hot summers and mild winters, we can also advise on the best carpet options to withstand the local climate.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Preparation",
+          "Carpet Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Enhanced Comfort",
+          "Improved Insulation",
+          "Noise Reduction",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "How long does carpet installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but most residential installations can be completed in one to two days."
+          },
+          {
+            "question": "Do you remove old carpet?",
+            "answer": "Yes, we offer complete carpet removal and disposal services as part of our installation package."
+          },
+          {
+            "question": "What types of carpet do you offer?",
+            "answer": "We offer a wide variety of carpets, including nylon, polyester, wool, and more. We can help you choose the best option for your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Beautiful and durable hardwood flooring installation for Bakersfield homes.",
+        "description": "Elevate your Bakersfield home with the timeless elegance of hardwood flooring. Big R's Carpet specializes in the installation of solid and engineered hardwood, offering a variety of wood species, finishes, and styles to complement any décor. Considering Bakersfield's dry climate, we help you select woods and finishes that resist warping and cracking. \n\nOur experienced team meticulously prepares the subfloor to ensure a level and stable base for your hardwood. We use precise installation techniques to create a seamless and durable floor that will last for generations. We understand the unique challenges of installing hardwood in older Bakersfield homes, such as uneven subfloors and tight spaces, and we have the expertise to overcome these obstacles.\n\nFrom classic oak to exotic bamboo, we offer a wide selection of hardwood options to suit your taste and budget. We also provide expert advice on hardwood maintenance and care to keep your floors looking their best for years to come. Whether you're renovating a historic home in Oleander-Sunset or building a new home in Seven Oaks, Big R's Carpet has the hardwood flooring solution for you.",
+        "process": [
+          "Consultation & Design",
+          "Subfloor Preparation",
+          "Hardwood Installation",
+          "Finishing & Sealing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Timeless Beauty",
+          "Durability & Longevity",
+          "Easy Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between solid and engineered hardwood?",
+            "answer": "Solid hardwood is made from a single piece of wood, while engineered hardwood has multiple layers of wood veneer bonded together. Engineered hardwood is more resistant to moisture and temperature changes, making it a good choice for Bakersfield's climate."
+          },
+          {
+            "question": "How do I care for my hardwood floors?",
+            "answer": "Regular sweeping and occasional damp mopping with a pH-neutral cleaner is recommended. Avoid using harsh chemicals or abrasive cleaners."
+          },
+          {
+            "question": "Can hardwood flooring be installed over concrete?",
+            "answer": "Yes, engineered hardwood can be installed over concrete with a proper moisture barrier."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable and stylish laminate flooring installation in Bakersfield.",
+        "description": "Big R's Carpet offers high-quality laminate flooring installation services, providing a cost-effective and durable alternative to hardwood. Laminate flooring is an excellent choice for Bakersfield homeowners looking to update their floors without breaking the bank. It's resistant to scratches, stains, and fading, making it ideal for active families and pet owners.\n\nWe offer a wide variety of laminate styles and colors, mimicking the look of real wood, tile, and stone. Our experienced installers ensure a precise and professional installation, paying close attention to details like seams and transitions. We understand the importance of proper subfloor preparation for laminate flooring, and we take extra care to ensure a smooth and level surface.\n\nLaminate flooring is easy to clean and maintain, making it a practical choice for busy Bakersfield lifestyles. Its moisture resistance makes it suitable for kitchens, bathrooms, and other areas prone to spills. Whether you're renovating a rental property or updating your family home, Big R's Carpet has the perfect laminate flooring solution for you.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Preparation",
+          "Laminate Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Affordable Price",
+          "Easy Maintenance",
+          "Scratch & Stain Resistance",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While water-resistant, laminate flooring is not completely waterproof. It's important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years or more."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, professional installation is recommended to ensure a proper and long-lasting result."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Durable and waterproof vinyl flooring solutions for Bakersfield homes.",
+        "description": "Big R's Carpet offers a wide range of vinyl flooring options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Vinyl flooring is a popular choice for Bakersfield homeowners due to its durability, water resistance, and affordability. It's an excellent option for kitchens, bathrooms, laundry rooms, and other areas prone to moisture.\n\nOur experienced installers ensure a precise and professional installation, paying close attention to details like seams and transitions. We understand the importance of proper subfloor preparation for vinyl flooring, and we take extra care to ensure a smooth and level surface. With Bakersfield's occasional flooding, vinyl’s water resistance is a key benefit for many homeowners.\n\nWe offer a wide variety of vinyl styles and colors, mimicking the look of real wood, tile, and stone. Luxury vinyl plank (LVP) is a particularly popular choice, offering the beauty of hardwood with the durability and water resistance of vinyl. Whether you're renovating a bathroom or updating your entire home, Big R's Carpet has the perfect vinyl flooring solution for you.",
+        "process": [
+          "Consultation & Selection",
+          "Subfloor Preparation",
+          "Vinyl Installation",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Waterproof",
+          "Durable",
+          "Affordable",
+          "Easy to Clean"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its water resistance."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Regular sweeping and damp mopping with a mild detergent is recommended."
+          },
+          {
+            "question": "What is luxury vinyl plank (LVP)?",
+            "answer": "Luxury vinyl plank is a type of vinyl flooring that mimics the look of real wood, offering both beauty and durability."
+          }
+        ]
+      },
+      {
+        "slug": "tile-installation",
+        "name": "Tile Installation",
+        "shortDescription": "Professional tile installation services for kitchens, bathrooms, and more.",
+        "description": "Big R's Carpet specializes in professional tile installation services, transforming kitchens, bathrooms, and other spaces with beautiful and durable tile. We understand the importance of proper preparation and precise installation to ensure a long-lasting and visually stunning result. Bakersfield's extreme summer heat makes tile a particularly desirable option for its cooling properties.\n\nOur experienced tile setters work with all types of tile, including ceramic, porcelain, glass, and stone. We offer a wide variety of tile styles, colors, and patterns to suit any taste and budget. From intricate mosaic designs to classic subway tile, we can bring your vision to life.\n\nWe pay close attention to details like grout lines, leveling, and sealing to ensure a flawless finish. Our team uses high-quality materials and techniques to create a waterproof and durable surface that will withstand the test of time. Whether you're remodeling a bathroom or installing a new kitchen backsplash, Big R's Carpet has the perfect tile solution for you.",
+        "process": [
+          "Consultation & Design",
+          "Subfloor Preparation",
+          "Tile Installation",
+          "Grouting & Sealing"
+        ],
+        "benefits": [
+          "Waterproof",
+          "Durable",
+          "Easy to Clean",
+          "Versatile Design Options"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is a great choice for bathrooms due to its water resistance and durability."
+          },
+          {
+            "question": "How do I clean tile grout?",
+            "answer": "Use a grout cleaner and a scrub brush to remove dirt and stains from grout lines."
+          },
+          {
+            "question": "Can I install tile over existing tile?",
+            "answer": "In some cases, tile can be installed over existing tile, but proper preparation and bonding agents are crucial."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair",
+        "shortDescription": "Expert flooring repair services for all types of flooring.",
+        "description": "Don't replace your entire floor when you can repair it! Big R's Carpet offers expert flooring repair services for all types of flooring, including carpet, hardwood, laminate, vinyl, and tile. We understand that accidents happen, and we're here to help you restore your floors to their original beauty.\n\nOur experienced technicians can repair a wide range of flooring issues, including water damage, scratches, stains, loose tiles, and more. We use high-quality materials and techniques to ensure a seamless and long-lasting repair. We understand the unique challenges of repairing floors in older Bakersfield homes, and we have the expertise to overcome these obstacles.\n\nBefore replacing your entire floor, give Big R's Carpet a call. We'll assess the damage and provide you with an honest and affordable repair solution. We're committed to saving you time and money while restoring the beauty and functionality of your floors.",
+        "process": [
+          "Assessment & Diagnosis",
+          "Material Selection",
+          "Repair Execution",
+          "Final Inspection"
+        ],
+        "benefits": [
+          "Cost-Effective",
+          "Extends Floor Life",
+          "Restores Beauty",
+          "Minimizes Disruption"
+        ],
+        "faq": [
+          {
+            "question": "How much does flooring repair cost?",
+            "answer": "The cost of flooring repair depends on the extent of the damage and the type of flooring. We offer free estimates."
+          },
+          {
+            "question": "Can you match the existing flooring?",
+            "answer": "Yes, we can typically match existing flooring materials to ensure a seamless repair."
+          },
+          {
+            "question": "Do you offer emergency flooring repair services?",
+            "answer": "Yes, we offer emergency flooring repair services for urgent situations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Big R's Carpet is proud to serve the residents and businesses of Bakersfield, California. As a leading flooring installer, we offer a wide selection of carpets, hardwood, laminate, and vinyl flooring options to suit any style and budget. Our expert team provides professional installation services, ensuring a flawless and long-lasting finish for your home or commercial space. We understand the unique needs of Bakersfield customers and are committed to delivering exceptional quality and customer satisfaction.\n\nFrom the vibrant downtown area to the growing suburban neighborhoods, Big R's Carpet is dedicated to providing top-notch flooring solutions throughout Bakersfield. We take pride in our workmanship and use only the highest quality materials to ensure your flooring project exceeds your expectations. Whether you're looking to upgrade your home's interior or enhance the look of your business, Big R's Carpet is your trusted partner for all your flooring needs.",
+        "localContext": "Bakersfield is a major agricultural and energy production hub in California's Central Valley, known for its warm climate and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Big R's Carpet extends its exceptional flooring services to the community of Oildale, California. We understand the unique character of Oildale and are committed to providing flooring solutions that are both stylish and durable. Our experienced installers are skilled in handling a variety of flooring types, including carpet, hardwood, laminate, and vinyl, ensuring a perfect fit for your home or business.\n\nWe take pride in our attention to detail and customer satisfaction. Big R's Carpet works closely with Oildale residents to understand their specific needs and preferences, providing personalized recommendations and expert installation services. Whether you're renovating your home or updating your commercial space, we are here to help you achieve your flooring goals.",
+        "localContext": "Oildale is a historic community north of Bakersfield, known for its strong ties to the oil industry and its close-knit community.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Big R's Carpet is pleased to offer its professional flooring installation services to Rosedale, California. We understand the unique aesthetic preferences of Rosedale residents and offer a wide range of flooring options to complement any home or business. From plush carpets to elegant hardwood, our selection has something for everyone.\n\nOur experienced team is committed to providing exceptional service and quality workmanship. Big R's Carpet ensures that every installation is completed to the highest standards, providing a beautiful and long-lasting flooring solution for your Rosedale property. We are dedicated to customer satisfaction and strive to exceed your expectations with every project.",
+        "localContext": "Rosedale is a growing residential area northwest of Bakersfield, known for its newer homes and family-friendly environment.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Shafter",
+          "Oildale"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Big R's Carpet is dedicated to serving the community of Shafter, California, with top-quality flooring installation services. We offer a comprehensive selection of flooring options, including carpet, laminate, hardwood, and vinyl, to meet the diverse needs of Shafter residents and businesses. Our expert team is committed to providing professional installation and exceptional customer service.\n\nBig R's Carpet understands the importance of quality and durability. We use only the finest materials and employ skilled installers to ensure that your flooring project is completed to the highest standards. Whether you're looking to enhance your home's comfort or improve the aesthetic appeal of your commercial space, we are here to help you achieve your flooring goals in Shafter.",
+        "localContext": "Shafter is a city located northwest of Bakersfield, known for its agricultural heritage and strong community spirit.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Big R's Carpet is proud to extend its flooring services to the residents and businesses of Wasco, California. We understand the unique needs of the Wasco community and offer a wide variety of flooring options to suit any style and budget. Our experienced team is dedicated to providing professional installation services and exceptional customer support.\n\nFrom cozy carpets to durable vinyl, Big R's Carpet provides flooring solutions that enhance the beauty and functionality of your space. We are committed to using high-quality materials and providing expert workmanship, ensuring that your flooring project is completed to your satisfaction. Whether you're renovating your home or upgrading your commercial property, we are here to help you achieve your flooring goals in Wasco.",
+        "localContext": "Wasco is a city in Kern County known for its agriculture, particularly roses and potatoes.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Big R's Carpet is pleased to provide top-notch flooring installation services to the community of McFarland, California. We offer a wide range of flooring options to suit every taste and budget, including carpet, hardwood, laminate, and vinyl. Our skilled installers are dedicated to providing excellent workmanship and ensuring customer satisfaction.\n\nWe understand that choosing the right flooring is an important decision. Big R's Carpet works closely with McFarland residents to understand their specific needs and preferences, providing personalized recommendations and expert installation services. Whether you're remodeling your home or renovating your business, we are here to help you achieve your flooring vision in McFarland.",
+        "localContext": "McFarland is a city in Kern County, California, known for its agricultural industry.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Big R's Carpet is committed to providing exceptional flooring services to the residents and businesses of Delano, California. We offer a diverse selection of flooring options, including carpet, hardwood, laminate, and vinyl, to meet the unique needs of the Delano community. Our experienced team is dedicated to providing professional installation and outstanding customer service.\n\nBig R's Carpet understands the importance of quality and affordability. We work closely with our customers in Delano to find the perfect flooring solution that fits their budget and enhances the beauty of their space. Whether you're renovating your home or upgrading your commercial property, we are here to help you achieve your flooring goals in Delano.",
+        "localContext": "Delano is a city in Kern County, California, known for its agricultural heritage and vibrant community.",
+        "nearbyAreas": [
+          "McFarland",
+          "Earlimart",
+          "Wasco"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Big R's Carpet proudly serves Lamont, CA, offering a wide range of flooring solutions for homes and businesses. We bring our expertise in carpet, hardwood, laminate, and vinyl installations to the Lamont community, ensuring every project is completed with precision and care. Big R's Carpet is dedicated to providing top-quality materials and exceptional service to our customers in Lamont.\n\nFrom selecting the perfect flooring to expert installation, our Lamont customers can rely on Big R's Carpet for all their flooring needs. We are committed to exceeding expectations and creating beautiful, durable floors that enhance the value and comfort of your property in Lamont. Whether you are updating a single room or renovating an entire property, Big R's Carpet is your trusted flooring partner in Lamont.",
+        "localContext": "Lamont is a small community southeast of Bakersfield known for its agricultural industry and close-knit neighborhoods.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Carpet Installation",
+        "text": "Big R's Carpet installed new carpet in my living room and bedrooms. The installers were professional, efficient, and did a fantastic job. The carpet looks great, and the price was very reasonable. I highly recommend them!",
+        "date": "2024-10-26"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Hardwood Flooring",
+        "text": "I had Big R's install hardwood floors in my dining room. The quality of the work was excellent, and the floors look beautiful. There was a slight delay in the project, but they communicated well and made sure I was satisfied with the final result.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Lisa J.",
+        "rating": 5,
+        "service": "Laminate Flooring",
+        "text": "Big R's Carpet installed laminate flooring in my kitchen and bathroom. The floors are durable, easy to clean, and look great. The installation was quick and efficient, and the price was very competitive. I would definitely use them again.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Vinyl Flooring",
+        "text": "We had Big R's install vinyl flooring in our laundry room. It's perfect! Completely waterproof and looks fantastic. The team was very professional and the installation was quick.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Sarah M.",
+        "rating": 4,
+        "service": "Tile Installation",
+        "text": "Big R's Carpet did a great job installing new tile in my bathroom. The tile looks beautiful, and the grout lines are perfect. There were a few minor issues during the installation, but they were quickly resolved. Overall, I'm very happy with the result.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Flooring Repair",
+        "text": "Big R's repaired a water-damaged section of my hardwood floor. They matched the wood perfectly, and you can't even tell there was any damage. I was impressed with their professionalism and attention to detail.",
+        "date": "2025-03-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Big R's Carpet: Bakersfield Flooring",
+        "description": "Expert flooring installation in Bakersfield, CA. Carpet, hardwood, laminate, vinyl, and tile. Free estimates!"
+      },
+      "about": {
+        "title": "About Big R's Carpet | Bakersfield, CA",
+        "description": "Learn about Big R's Carpet, Bakersfield's trusted flooring installer. Quality workmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Big R's Carpet",
+        "description": "Comprehensive flooring services in Bakersfield, CA. Carpet, hardwood, laminate, vinyl, and tile installation and repair."
+      },
+      "contact": {
+        "title": "Contact Big R's Carpet | Bakersfield, CA",
+        "description": "Contact Big R's Carpet for a free flooring estimate in Bakersfield, CA. Call us today!"
+      },
+      "reviews": {
+        "title": "Big R's Carpet Reviews | Bakersfield, CA",
+        "description": "Read reviews of Big R's Carpet in Bakersfield, CA. See what our satisfied customers are saying about our flooring services."
+      },
+      "service-areas": {
+        "title": "Big R's Carpet Service Areas",
+        "description": "Flooring installation services in Bakersfield and surrounding areas. Contact us for a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "tile-installation": "/images/service-tile-installation.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp"
+    },
+    "servicesResponsive": {
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-installation": {
+        "src": "/images/service-tile-installation.webp",
+        "srcset": "/images/service-tile-installation-400w.webp 400w, /images/service-tile-installation-800w.webp 800w, /images/service-tile-installation-1200w.webp 1200w, /images/service-tile-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
